@@ -1,0 +1,5 @@
+baseURL = 'https://github.com/'
+languageCode = 'zh-cn'
+title = 'Cyan blog'
+theme = 'ananke'
+
